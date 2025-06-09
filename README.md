@@ -1,4 +1,4 @@
-# 
+# State of the Region (SOR) project
 
 Project Scope:
 The project focuses on automating data workflows and building insights platforms around regional socio-economic indicators. This year, the scope includes automating data collection and cleaning, database design, website development, and interactive dashboard creation. Data sources include both traditional (e.g., Census) and real-time (e.g., Google Trends, Social Media) APIs.
