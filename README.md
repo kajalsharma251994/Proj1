@@ -1,4 +1,7 @@
-# Proj1
+# 
+
+Project Scope:
+The project focuses on automating data workflows and building insights platforms around regional socio-economic indicators. This year, the scope includes automating data collection and cleaning, database design, website development, and interactive dashboard creation. Data sources include both traditional (e.g., Census) and real-time (e.g., Google Trends, Social Media) APIs.
 
 ## 📌Project Overview
 
@@ -10,6 +13,14 @@ understand poverty distribution, assess intervention effectiveness, and make inf
 about resource allocation. By employing statistical analysis and interactive mapping tools, the
 project seeks to create an accessible knowledge base that supports evidence-based poverty
 reduction strategies while highlighting areas requiring targeted support.
+
+**Key Activities**
+
+- Consume and extract data from REST APIs
+- Design and manage structured/unstructured databases
+- Perform statistical analysis on economic and social indicators
+- Build dashboards using Tableau
+- Draft policy notes and contribute to reporting
 
 **Methodological Approach**
 
